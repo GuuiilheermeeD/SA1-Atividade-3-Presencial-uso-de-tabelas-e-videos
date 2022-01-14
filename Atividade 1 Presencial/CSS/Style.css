@@ -1,0 +1,23 @@
+#home{
+width: 1350px;
+height: 816px;
+}
+
+div img{
+    width: auto;
+    height:200px;
+    float: center;
+}
+#banner{
+    width: 1350px;
+    height: 200px;
+    float:inherit;
+}   
+#texto {
+    width: 159px;
+    height: 621px;
+    float: left;
+}
+
+#tabela{
+}
